@@ -1,0 +1,58 @@
+.t-lon{
+    position: relative;
+}
+.i-bar{
+    position: absolute;
+    right: 15%;
+}
+* {
+    font-family: "Raleway", sans-serif;
+}
+.f-inter {
+    font-family: "Inter", sans-serif;
+}
+.background {
+    background-color: #1DD100 !important;
+}
+.background-2 {
+    background-color: #1cd100;
+    border: 2px solid #1cd100c3;
+    font-weight: 700;
+    font-size: 20px;
+    transition: 300ms;
+    color: #000000;
+}
+.background-2:hover {
+    background-color: #25ff03;
+    border: 2px solid #1cd100c3;
+}
+.bannerimg {
+    border-radius: 32px;
+    background-image: url("../images/banner.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.selection-t{
+    box-sizing: border-box;
+    border-top: 2px solid rgb(29, 209, 0);
+    border-radius: 88px 88px 0px 0px;
+}
+.k-d{
+    position: relative;
+}
+.roundgg{
+    position: absolute;
+    left: 55%;
+}
+.bg-base-10 {
+    background-color: #1cd1001a;
+    border: 2px solid #1cd10066;
+    font-weight: 700;
+    font-size: 20px;
+    transition: 300ms;
+    color: #1DD100;
+}
+.bg-base-10:hover {
+    background-color: rgba(28, 209, 0, 0.511);
+    border: 2px solid #1cd100;
+}
